@@ -41,17 +41,13 @@ Python • LangChain • NextJS • Firebase • Google Gemini • Deepgram
 
 ## 📊 GitHub Commit Analysis
 
-### 🔥 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrajpatel04&show_icons=true&theme=radical&count_private=true)
+## 📊 GitHub Analytics
 
-### 🔥 Commit Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vrajpatel04&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vrajpatel04&theme=tokyonight)
 
-### 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajpatel04&layout=compact&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vrajpatel04&theme=tokyonight)
 
-### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vrajpatel04&theme=react-dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vrajpatel04&theme=tokyonight)
 
 ---
 
