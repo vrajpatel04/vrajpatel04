@@ -112,7 +112,6 @@ class VrajPatel:
 </div>
 
 ---
----
 
 ## 📊 GitHub Stats
 
